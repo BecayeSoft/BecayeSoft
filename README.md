@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BecayeSoft
-- 👀 I’m interested in FullStack Development and Machine Learning
-- 🌱 I’m currently learning Backend Development and Machine Learning
+- 👀 I’m a graduate student in Artificial Intelligence
+- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Data Science and Web development projects
 - 📫 How to reach me: baldebecaye10@gmail.com
 
