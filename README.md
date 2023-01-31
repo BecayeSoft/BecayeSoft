@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @BecayeSoft
 - 👀 I’m a graduate student in Artificial Intelligence
 - 🌱 I’m currently learning Deep Learning
-- 💞️ I’m looking to collaborate on Data Science and Web development projects
+- 💞️ I’m looking to collaborate on Machine|Deep  Learning and Data Visualization projects
 - 📫 How to reach me: baldebecaye10@gmail.com
 
 <!---
