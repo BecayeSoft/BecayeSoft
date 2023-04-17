@@ -2,7 +2,7 @@
 - 👀 A student in Artificial Intelligence
 - 🌱 A writer on Medium
 - 💞️ A Machine Learning and Deep Learning enthusiast
-- 📫 How to reach me: baldebecaye10@gmail.com
+- 📫 Reach me at becaye.com
 
 <!---
 BecayeSoft/BecayeSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
