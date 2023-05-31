@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Becaye
-- 👀 A Data Scientist | Student in Artificial Intelligence
+- 👀 A Data Scientist Intern | Student in Artificial Intelligence
 - 🌱 A writer on Medium
 - 💞️ A Machine Learning and Deep Learning enthusiast
 - 📫 Reach me at [becaye.com](https://becaye.com/)
