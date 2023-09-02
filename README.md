@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Becaye
-- 👀 A Data Scientist Intern | Student in Artificial Intelligence
-- 🌱 A writer on Medium
-- 💞️ A Machine Learning and Deep Learning enthusiast
+- 👀 A Data Scientist | ML Engineer | Blogger
 - 📫 Reach me at [becaye.com](https://becaye.com/)
 
 ## My Most Interesting Repositories
@@ -16,7 +14,7 @@
 
 - [Intel-images-classification](https://github.com/BecayeSoft/Intel-images-classification): A comparison between Transfer Learning and a custom Convolutional Network to classify images.
 
-- [GPT-Advisor](https://github.com/BecayeSoft/GPT-Advisor): Exploring OpenAI API by building a Machine Learning Advisor.
+- [GPT-Advisor](https://github.com/BecayeSoft/LLMs): Exploring GPT-4 and LLama 2.
 
 <!---
 BecayeSoft/BecayeSoft is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
