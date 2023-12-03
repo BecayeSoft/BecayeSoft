@@ -3,6 +3,8 @@
 - 📫 Reach me at [becaye.com](https://becaye.com/)
 
 ## My Most Interesting Repositories
+
+- [Loan-Eligibility-Modeling](https://github.com/BecayeSoft/Loan-Eligibility-Modeling): An interpretable system to assess loan eligibility in which I used machine learning to predict loan eligibility and GPT-3.5 to generate a report explaining the model's decision. 
   
 - [SmartEye](https://github.com/BecayeSoft/SmartEye): Predicting demographics data with Amazon Rekognition.
 
@@ -13,8 +15,6 @@
 - [Machine Learning](https://github.com/BecayeSoft/Machine-Learning): Deep learning, machine learning marvels, and language sorcery in one repository :)
 
 - [Natural Language Processing](https://github.com/BecayeSoft/Natural-Language-Processing): The sorcery of Natural Language processing form basic techniques such as Word2Vec, Topic Modelling to LSTMs, and pre-trained transformers.
-
-- [LLMs](https://github.com/BecayeSoft/LLMs): Exploring GPT-4 and LLama 2.
 
 
 <!---
