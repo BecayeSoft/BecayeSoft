@@ -6,7 +6,7 @@ Hello there! I’m Becaye, a Data Scientist. With a passion for computer science
 
 ## My Most Interesting Repositories
 
-- [Loan-Eligibility-Modeling](https://github.com/BecayeSoft/Loan-Eligibility-Modeling): An interpretable system to assess loan eligibility in which I used machine learning to predict loan eligibility and GPT-3.5 to generate a report explaining the model's decision. 
+- [Loan-Eligibility-Modeling](https://github.com/BecayeSoft/Loan-Eligibility-Modeling): An interpretable system to assess loan eligibility in which I used machine learning to predict loan eligibility and GPT-3.5 to generate a report explaining the model's decision. Try the web app here: [loan-eligibility.streamlit.app](https://loan-eligibility.streamlit.app/).
   
 - [SmartEye](https://github.com/BecayeSoft/SmartEye): Predicting demographics data with Amazon Rekognition.
 
