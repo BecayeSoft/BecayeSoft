@@ -1,6 +1,8 @@
-- 👋 Hi, I’m Becaye
-- 👀 A Data Scientist | ML Engineer | Blogger
-- 📫 Reach me at [becaye.com](https://becaye.com/)
+# BecayeSoft
+
+Hello there! I’m Becaye, a Data Scientist. With a passion for computer science and a master's in AI, I have fun building diverse projects and writing articles about them.
+- 📫 My website: [becaye.com](https://becaye.com/).
+- ✍️ My articles: [medium.com/@becaye-balde](https://medium.com/@becaye-balde).
 
 ## My Most Interesting Repositories
 
