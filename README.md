@@ -1,7 +1,7 @@
 # BecayeSoft
 
 Hello there! I’m Becaye, a Data Scientist. With a passion for computer science and a master's in AI, I have fun building diverse projects and writing articles about them.
-- 📫 My website: [becaye.com](https://becaye.com/).
+- 📫 My website: [becaye.com](https://becayesoft.github.io/)).
 - ✍️ My articles: [medium.com/@becaye-balde](https://medium.com/@becaye-balde).
 
 > Some of my most Interesting Repositories can be found below.
